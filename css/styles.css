@@ -576,4 +576,7 @@ footer {
   background: var(--iris);
   justify-items: center;
   margin: 8px auto 0;
+  color: var(--white);
+  font-weight: 500;
+  letter-spacing: 0.04em;
 }
